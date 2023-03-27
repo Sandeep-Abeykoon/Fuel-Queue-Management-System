@@ -1,0 +1,46 @@
+emvvpty empty empty 0
+emptvvy empty empty 0
+edfmpty empty empty 0
+efdfmpty empty empty 0
+efmpty empty empty 0
+eddmpty empty empty 0
+0.0
+emfdfpty empty empty 0
+emffpty empty empty 0
+edfmpty empty empty 0
+emffpty empty empty 0
+emdffpty empty empty 0
+emfdfpty empty empty 0
+0.0
+empfdfty empty empty 0
+efdfmpty empty empty 0
+efmpty empty empty 0
+edfmpty empty empty 0
+empdffty empty empty 0
+empfdfty empty empty 0
+0.0
+edffmpty empty empty 0
+effmpty empty empty 0
+emfdfpty empty empty 0
+emfddfpty empty empty 0
+empdffty empty empty 0
+efdfmpty empty empty 0
+0.0
+edffmpty empty empty 0
+emfdfpty empty empty 0
+emffdfpty empty empty 0
+efdfmpty empty empty 0
+efdfdmpty empty empty 0
+emfddpty empty empty 0
+0.0
+6600
+emfdpty empty empty 0
+emfffpty empty empty 0
+emdfdfpty empty empty 0
+empffdty empty empty 0
+emdffpty empty empty 0
+effdmpty empty empty 0
+emfdpty empty empty 0
+empfdty empty empty 0
+0
+0
